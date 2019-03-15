@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/com/hollybee/encodesection/ElfType32.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/hollybee/encodesection/EncodeSection.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/hollybee/encodesection/Utils.java" charset="GB18030" />
+  </component>
+</project>
